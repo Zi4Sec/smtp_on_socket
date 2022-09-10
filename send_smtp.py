@@ -1,3 +1,8 @@
+'''
+Sending smtp emails through socket programming
+please do not use it for illegal aims
+created by zia nazari April 2022, nazari.zia@gmail.com
+'''
 import socket
 
 HOST, PORT = "mail.domain1.com", 587
